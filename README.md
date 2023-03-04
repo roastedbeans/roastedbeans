@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [pending...](pending...)
 
-- 💬 Ask me about **C, C++, C#, OOP with Java, Web Development using HTML, CSS, JS, and Game Development with Unity**
+- 💬 Ask me about **C, C++, C#, Java, Web Development using HTML, CSS, JS, and Game Development with Unity**
 
 - 📫 How to reach me **vinceabella05@gmail.com**
 
