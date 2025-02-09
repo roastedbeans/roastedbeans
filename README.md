@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vincent Abella</h1>
-<h3 align="center">23 Years old, currently a BS-Computer Engineering student at the University of San Carlos</h3>
+<h3 align="center">Software engineer | web developer | master's in Information Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roastedbeans&label=Profile%20views&color=0e75b6&style=flat" alt="roastedbeans" /> </p>
 
